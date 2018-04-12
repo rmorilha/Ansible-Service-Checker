@@ -10,7 +10,7 @@ There are some improvements on ansible's version 2.5 that are needed by systemd,
 It's a DevOps/SysAdmin/Sec community that aims to help each other.
 
 Follow us on:
-https://keep-linux.blogspot.com.br
-https://www.facebook.com/KeepLinuxBr/
-https://plus.google.com/u/0/108678334786514115068
-https://www.youtube.com/channel/UC3b8Le3ZrWBXWUYQDqK-eVw
+Our Blog: https://keep-linux.blogspot.com.br
+Our Facebook Page: https://www.facebook.com/KeepLinuxBr/
+Our Google+ Page: https://plus.google.com/u/0/108678334786514115068
+Our Youtube Channel: https://www.youtube.com/channel/UC3b8Le3ZrWBXWUYQDqK-eVw
